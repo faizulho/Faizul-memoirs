@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://alanta.github.io/memoirs-theme</id>
+	<id>/</id>
 	<title>Memoirs</title>
-	<link rel="self" href="https://alanta.github.io/memoirs-theme" />
+	<link rel="self" href="/" />
 	<rights>Memoirs</rights>
-	<updated>2020-12-04T07:48:02Z</updated>
+	<updated>2021-04-20T04:59:41Z</updated>
 	<subtitle>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</subtitle>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/02/les-ambassadeurs.html</id>
+		<id>/post/2020/02/les-ambassadeurs.html</id>
 		<title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/02/les-ambassadeurs.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-2.jpg" />
+		<link href="/post/2020/02/les-ambassadeurs.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-2.jpg" />
 		<updated>2020-02-02T00:00:00Z</updated>
 		<content>
     &lt;p&gt;Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century.&amp;nbsp;&lt;/p&gt;
@@ -23,10 +23,10 @@
 		<summary>The first restaurant we visited in Paris</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/02/much-more-than-a-desert-a-trip-to-sahara.html</id>
+		<id>/post/2020/02/much-more-than-a-desert-a-trip-to-sahara.html</id>
 		<title>Much more than a desert: A trip into the Sahara</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/02/much-more-than-a-desert-a-trip-to-sahara.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-16.jpg" />
+		<link href="/post/2020/02/much-more-than-a-desert-a-trip-to-sahara.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-16.jpg" />
 		<updated>2020-02-01T00:00:00Z</updated>
 		<content>
     &lt;h2&gt;Introduction&lt;/h2&gt;
@@ -42,10 +42,10 @@
 		<summary>It's not just sand and heat; there's a world of hidden treasures, yours to discover</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/one-day-just-started-adventure.html</id>
+		<id>/post/2020/01/one-day-just-started-adventure.html</id>
 		<title>One day we just started our adventure</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/one-day-just-started-adventure.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-15.jpg" />
+		<link href="/post/2020/01/one-day-just-started-adventure.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-15.jpg" />
 		<updated>2020-01-12T00:00:00Z</updated>
 		<content>
     &lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&amp;nbsp;&lt;/p&gt;
@@ -59,10 +59,10 @@
 		<summary>Don't wait, go for it!</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/london.html</id>
+		<id>/post/2020/01/london.html</id>
 		<title>London is that kind of place you must visit in this lifetime</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/london.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-9.jpg" />
+		<link href="/post/2020/01/london.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-9.jpg" />
 		<updated>2020-01-12T00:00:00Z</updated>
 		<content>
     &lt;p&gt;The Queen's Guard and Queen's Life Guard (called King's Guard and King's Life Guard when the reigning monarch is male) are the names given to contingents of infantry and cavalry soldiers charged with guarding the official royal residences in the United Kingdom. The British Army has regiments of both Horse Guards and Foot Guards predating the English Restoration (1660), and since the reign of King Charles II these regiments have been responsible for guarding the Sovereign's palaces. The Guards are fully operational soldiers.&lt;/p&gt;
@@ -75,10 +75,10 @@
 		<summary>London is that kind of place you must visit in this lifetime</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/easy-images.html</id>
+		<id>/post/2020/01/easy-images.html</id>
 		<title>Kontent.Statiq makes image management easy</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/easy-images.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-photo-1559925393-8be0ec4767c8.jfif" />
+		<link href="/post/2020/01/easy-images.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-photo-1559925393-8be0ec4767c8.jfif" />
 		<updated>2020-01-12T00:00:00Z</updated>
 		<content>
     &lt;p&gt;Managing images can be a challenging task, I know that, but Statiq.Kontent makes it so much simpler. Just upload it to the media library and insert in your page with the appropriate size. Kontent will take care of resizing it and Kontent.Statiq will download it into your static site.&lt;/p&gt;
@@ -92,10 +92,10 @@
 		<summary>Kontent and Statiq handle images for your static website</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/spoilers-inside.html</id>
+		<id>/post/2020/01/spoilers-inside.html</id>
 		<title>Spoilers Inside - a film review needs hidden spoilers like this post</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/spoilers-inside.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-12.jpg" />
+		<link href="/post/2020/01/spoilers-inside.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-12.jpg" />
 		<updated>2020-01-11T00:00:00Z</updated>
 		<content>
     &lt;p&gt;Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.&lt;/p&gt;
@@ -107,17 +107,17 @@
 &lt;p&gt;A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.&lt;/p&gt;
 &lt;h4&gt;So how do we add spoilers in this theme?&lt;/h4&gt;
 &lt;p&gt;Drop a spoiler in the body of your post :&lt;/p&gt;
-&lt;figure data-asset-id="b921df44-f649-41e4-8345-7817df9f041d" data-image-id="b921df44-f649-41e4-8345-7817df9f041d"&gt;&lt;img src="https://alanta.github.io/memoirs-theme/memoirs-theme/img/kontent-insert-spoiler.png" data-asset-id="b921df44-f649-41e4-8345-7817df9f041d" data-image-id="b921df44-f649-41e4-8345-7817df9f041d" alt=""&gt;&lt;/figure&gt;
+&lt;figure data-asset-id="b921df44-f649-41e4-8345-7817df9f041d" data-image-id="b921df44-f649-41e4-8345-7817df9f041d"&gt;&lt;img src="/img/kontent-insert-spoiler.png" data-asset-id="b921df44-f649-41e4-8345-7817df9f041d" data-image-id="b921df44-f649-41e4-8345-7817df9f041d" alt=""&gt;&lt;/figure&gt;
 &lt;p&gt;And it will render like this:&lt;/p&gt;
 &lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;div class="spoiler"&amp;gt;My blurred paragraph here.&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
 		<summary>Here's how you can hide part of your article to prevent spoiling other peoples fun.</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/that-day-when-we-almost-missed-our-flight.html</id>
+		<id>/post/2020/01/that-day-when-we-almost-missed-our-flight.html</id>
 		<title>That day when we almost missed our flight</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/that-day-when-we-almost-missed-our-flight.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-17.jpg" />
+		<link href="/post/2020/01/that-day-when-we-almost-missed-our-flight.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-17.jpg" />
 		<updated>2020-01-01T00:00:00Z</updated>
 		<content>
     &lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&amp;nbsp;&lt;/p&gt;
@@ -129,24 +129,24 @@
 		<summary>On the origins of odd-shaped books</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2020/01/review-oscar.html</id>
+		<id>/post/2020/01/review-oscar.html</id>
 		<title>Reviewing the best Oscar movies of all time</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2020/01/review-oscar.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-11.jpg" />
+		<link href="/post/2020/01/review-oscar.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-11.jpg" />
 		<updated>2020-01-01T00:00:00Z</updated>
 		<content>
     &lt;p&gt;Review products, books, movies, restaurant and anything you like on your Kontent blog with **Memoirs**! JSON-LD ready for review property.&lt;/p&gt;
 &lt;h3&gt;How to use?&lt;/h3&gt;
 &lt;p&gt;It's actually really simple! Add the rating in page in Kontent. It also supports halfs:&lt;/p&gt;
-&lt;figure data-asset-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" data-image-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406"&gt;&lt;img src="https://alanta.github.io/memoirs-theme/memoirs-theme/img/rating.png" data-asset-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" data-image-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" alt="Specify the rating in Kontent"&gt;&lt;/figure&gt;
+&lt;figure data-asset-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" data-image-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406"&gt;&lt;img src="/img/rating.png" data-asset-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" data-image-id="6a88c3ce-1881-4b95-bdc9-dcdd7e7a8406" alt="Specify the rating in Kontent"&gt;&lt;/figure&gt;
 </content>
 		<summary>My review of Inception movie. Acting, plot and something else in this short description.</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2019/12/the-observer-national-gallery-of-art.html</id>
+		<id>/post/2019/12/the-observer-national-gallery-of-art.html</id>
 		<title>The Observer - National Gallery of Art, Washington, United States</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2019/12/the-observer-national-gallery-of-art.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-1.jpg" />
+		<link href="/post/2019/12/the-observer-national-gallery-of-art.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-1.jpg" />
 		<updated>2019-12-01T00:00:00Z</updated>
 		<content>
     &lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&amp;nbsp;&lt;/p&gt;
@@ -158,10 +158,10 @@
 		<summary>The National Gallery of Art in Washington D.C. hosts a collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts tracing the development of Western Art from the Middle Ages to the present.</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2019/12/press-and-education.html</id>
+		<id>/post/2019/12/press-and-education.html</id>
 		<title>Culinary Arts in Europe by Jean Anthelme Brillat-Savarin</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2019/12/press-and-education.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-7.jpg" />
+		<link href="/post/2019/12/press-and-education.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-7.jpg" />
 		<updated>2019-12-01T00:00:00Z</updated>
 		<content>
     &lt;p&gt;The origins of culinary began with primitive humans roughly 2 million years ago. There are various theories as to how early humans used fire to cook meat. According to anthropologist Richard Wrangham, author of Catching Fire: How Cooking Made Us Human, primitive humans simply tossed a raw hunk of meat into the flames and watched it sizzle. Another theory claims humans may first have savoured roasted meat by chance when the flesh of a beast killed in a forest fire was found to be more appetizing and easier to chew and digest than the conventional raw meat.&lt;/p&gt;
@@ -174,10 +174,10 @@
 		<summary>On the evolution of cooking from the primitive discovery of fire to elite institutions governing the culinary arts.</summary>
 	</entry>
 	<entry>
-		<id>https://alanta.github.io/memoirs-theme/post/2018/06/2018-06-12-education.html</id>
+		<id>/post/2018/06/2018-06-12-education.html</id>
 		<title>Education must also train one for quick, resolute and effective thinking.</title>
-		<link href="https://alanta.github.io/memoirs-theme/post/2018/06/2018-06-12-education.html" />
-		<link rel="enclosure" type="image" href="https://alanta.github.io/memoirs-theme/img/e73b93a01332ac556c73823f9550a5f4-3.jpg" />
+		<link href="/post/2018/06/2018-06-12-education.html" />
+		<link rel="enclosure" type="image" href="/img/e73b93a01332ac556c73823f9550a5f4-3.jpg" />
 		<updated>2018-06-12T00:00:00Z</updated>
 		<content>
     &lt;p&gt;Memoirs theme has Prism highlighter integrated. I will show you in this post a few examples of how it looks if you are a developer planning to add pieces of code on your website.&lt;/p&gt;
